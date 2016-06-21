@@ -2,3 +2,11 @@ img {
     max-width: 100%;
     height: auto;
 }
+h2 {
+  position: absolute;
+  top: 350px;
+  text-align: right;
+  width: 100%;
+  color: red;
+  background-color: black;
+}
