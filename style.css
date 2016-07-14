@@ -14,6 +14,7 @@ img {
   height: auto;
   width: auto;
 }
+/***********************************Profile************************************/
 .profile {
     position: relative;
 }
@@ -25,19 +26,31 @@ img {
   font-size: 40px;
   text-align: left;
 }
-
+/************************************Intro*************************************/
+.intro {
+  background-color: #FF8C00;
+  color: white;
+}
+.intro p {
+  padding: 0 100px 0 100px;
+  text-align: justify;
+  font-size: 18px;
+}
+.intro b {
+  font-size: 35px;
+}
+/**********************************Portfolio***********************************/
+.portfolio {
+  text-align: center;
+}
 
 section {
   width: 29%;
   float: left;
   margin: 2% 2%;
   text-align: center;
-
 }
-.portfolio {
-  text-align: center;
-}
-
+/************************************Footer************************************/
 footer {
   background-color: #333333;
   width: 100%;
