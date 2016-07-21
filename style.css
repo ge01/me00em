@@ -14,10 +14,7 @@ img {
   height: auto;
   width: auto;
 }
-.nav.navbar-nav.navbar-right li a {
-    color: grey;
 
-}
 /***********************************Profile************************************/
 .profile {
     position: relative;
